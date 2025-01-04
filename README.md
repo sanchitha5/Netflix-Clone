@@ -13,7 +13,6 @@ This project is a clone of the Netflix landing page, created to practice HTML, C
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
@@ -37,7 +36,7 @@ You can view a live demo of the project [here](#).
 
 1. Clone the repository:
    ```bash
-   git clone https://sanchitha5.github.io/Netflix-Clone/
+   (https://sanchitha5.github.io/Netflix-Clone/)
    ```
 2. Navigate to the project directory:
    ```bash
@@ -52,9 +51,3 @@ Open the `index.html` file in your web browser to view the landing page.
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to customize it according to your project's specifics! If you need any more help, just let me know.
