@@ -1,4 +1,3 @@
-Sure! Here's a sample README file for a Netflix landing page clone:
 
 ```markdown
 # Netflix Landing Page Clone
