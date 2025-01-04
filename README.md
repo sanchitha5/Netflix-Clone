@@ -1,5 +1,3 @@
-
-```markdown
 # Netflix Landing Page Clone
 
 This project is a clone of the Netflix landing page, created to practice HTML, CSS, and JavaScript skills. The clone aims to replicate the look and feel of the original Netflix landing page.
@@ -15,7 +13,7 @@ This project is a clone of the Netflix landing page, created to practice HTML, C
 
 ## Demo
 
-[Your Link Here](https://sanchitha5.github.io/Netflix-Clone/)
+[View the Live Demo](https://sanchitha5.github.io/Netflix-Clone/)
 
 ## Features
 
@@ -33,20 +31,8 @@ This project is a clone of the Netflix landing page, created to practice HTML, C
 
 ## Installation
 
+If you would like to view the project locally:
+
 1. Clone the repository:
    ```bash
-   (https://sanchitha5.github.io/Netflix-Clone/)
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd netflix-landing-page-clone
-   ```
-
-## Usage
-
-Open the `index.html` file in your web browser to view the landing page.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
+   git clone https://github.com/sanchitha5/Netflix-Clone.git
