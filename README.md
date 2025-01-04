@@ -16,7 +16,7 @@ This project is a clone of the Netflix landing page, created to practice HTML, C
 
 ## Demo
 
-You can view a live demo of the project [here](#).
+You can view a live demo of the project [here](https://sanchitha5.github.io/Netflix-Clone/).
 
 ## Features
 
